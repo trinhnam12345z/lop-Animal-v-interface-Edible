@@ -1,0 +1,13 @@
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.exe
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.deps.json
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.runtimeconfig.json
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.runtimeconfig.dev.json
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.dll
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\bin\Debug\netcoreapp3.1\Lop Animal và interface Edible.pdb
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.csprojAssemblyReference.cache
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.AssemblyInfoInputs.cache
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.AssemblyInfo.cs
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.csproj.CoreCompileInputs.cache
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.dll
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.pdb
+E:\C#\Lop Animal và interface Edible\Lop Animal và interface Edible\obj\Debug\netcoreapp3.1\Lop Animal và interface Edible.genruntimeconfig.cache
